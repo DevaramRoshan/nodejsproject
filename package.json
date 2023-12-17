@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevaramRoshan/nodejsproject.git"
+  },
+  "author": "devaram roshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevaramRoshan/nodejsproject/issues"
+  },
+  "homepage": "https://github.com/DevaramRoshan/nodejsproject#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
